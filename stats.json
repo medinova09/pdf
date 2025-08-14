@@ -1,0 +1,127 @@
+[
+    {
+        "type": "cutter",
+        "date": "2025-08-09 12:46:18",
+        "range": "1",
+        "file": "huseyin-corekci_cut_1754732778.pdf"
+    },
+    {
+        "type": "merge",
+        "date": "2025-08-09 12:46:35",
+        "count": 2,
+        "file": "merged_1754732795.pdf"
+    },
+    {
+        "type": "pdf2jpg",
+        "date": "2025-08-09 12:46:43",
+        "pages": 1,
+        "dpi": 150,
+        "zip_size_mb": 0.1,
+        "file": "zips\/huseyin-corekci_converted.zip",
+        "first_image": "jpgs\/huseyin-corekci_page_1.jpg"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-09 23:56:40",
+        "original_size_mb": 23.55,
+        "compressed_size_mb": 7.43,
+        "saving_percent": 68.5,
+        "file": "20250308-5_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-11 09:16:25",
+        "original_size_mb": 2.95,
+        "compressed_size_mb": 0.53,
+        "saving_percent": 82,
+        "file": "2025-07-12_001_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-11 09:19:01",
+        "original_size_mb": 7.25,
+        "compressed_size_mb": 0.36,
+        "saving_percent": 95,
+        "file": "2025-07-07_001_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-11 09:19:38",
+        "original_size_mb": 7.25,
+        "compressed_size_mb": 1.08,
+        "saving_percent": 85.1,
+        "file": "2025-07-07_001_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-11 09:27:12",
+        "original_size_mb": 1.05,
+        "compressed_size_mb": 1.05,
+        "saving_percent": 0,
+        "file": "2025-08-11_001_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-11 09:27:22",
+        "original_size_mb": 1.05,
+        "compressed_size_mb": 0.2,
+        "saving_percent": 81,
+        "file": "2025-08-11_001_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-12 15:22:27",
+        "original_size_mb": 1.32,
+        "compressed_size_mb": 0.2,
+        "saving_percent": 84.8,
+        "file": "EP__KR__Z_B__RCAN_A__AO__LU_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-12 15:25:20",
+        "original_size_mb": 33.87,
+        "compressed_size_mb": 4.22,
+        "saving_percent": 87.5,
+        "file": "MEHTAP___E__EN_THHB_BA__VURUSU_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-12 15:25:47",
+        "original_size_mb": 27.35,
+        "compressed_size_mb": 4.06,
+        "saving_percent": 85.2,
+        "file": "MEHTAP___E__EN_TAAHH__TNAMELER_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-12 15:26:11",
+        "original_size_mb": 8.22,
+        "compressed_size_mb": 1.12,
+        "saving_percent": 86.4,
+        "file": "EL____N_KA___THHB_BA__VURUSU_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-12 15:26:41",
+        "original_size_mb": 44.24,
+        "compressed_size_mb": 6.51,
+        "saving_percent": 85.3,
+        "file": "EL____N_KA___TAAHH__TNAMELER_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-12 16:19:22",
+        "original_size_mb": 41.81,
+        "compressed_size_mb": 6.21,
+        "saving_percent": 85.1,
+        "file": "MEHTAP___E__EN_TAAHH__TNAME_compressed.pdf"
+    },
+    {
+        "type": "compress",
+        "date": "2025-08-12 16:19:42",
+        "original_size_mb": 29.8,
+        "compressed_size_mb": 4.39,
+        "saving_percent": 85.3,
+        "file": "EL____N_KA___TAAHH__TNAME_compressed.pdf"
+    }
+]
